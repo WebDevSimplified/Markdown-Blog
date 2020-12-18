@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dompurify": "^2.0.8",
+    "dompurify": "^2.0.17",
     "ejs": "^3.0.1",
     "express": "^4.17.1",
     "jsdom": "^16.2.1",
